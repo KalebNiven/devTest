@@ -1,0 +1,8 @@
+node_modules/
+server/data/*.db
+server/data/*.csv
+client/dist/
+.DS_Store
+
+GRADING.md
+README.md
